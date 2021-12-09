@@ -23,8 +23,7 @@ for (let i = 0; i < lines.length; i++) {
 
 console.log(increased);
 /* 
-Your goal now is to count the number of times the sum of measurements in this sliding window
-increases from the previous sum. 
+count the number of times the sum of measurements in this sliding window increases from the previous sum. 
 So, compare A with B, then compare B with C, then C with D, and so on. 
 Stop when there aren't enough measurements left to create a new three-measurement sum. 
 */
